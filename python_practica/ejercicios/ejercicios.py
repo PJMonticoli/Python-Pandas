@@ -1,22 +1,32 @@
 ## Falta el profesor y se decide que la clase la va a dar el alumno de mayor edad y el asistente sera el de menor edad
 
 # def obtener_compañeros(cantidad_de_compañeros):
-#     compañeros = []
+#     compañeros = []  # Lista para almacenar los nombres y edades de los compañeros
 #     for i in range(cantidad_de_compañeros):
 #         nombre = input("Ingrese el nombre del compañero: ")
 #         edad = input("Ingrese la edad: ")
-#         compañero = (nombre,edad)
-#         compañeros.append(compañero)
+#         compañero = (nombre,edad)  # Tupla que contiene el nombre y la edad del compañero
+#         compañeros.append(compañero)  # Agregar la tupla a la lista de compañeros
+    
+#     # Ordenar la lista de compañeros por edad
 #     compañeros.sort(key=lambda x:x[1])
+    
+#     # El asistente es el compañero más joven (primer elemento de la lista ordenada)
 #     asistente = compañeros[0][0]
+#     # El profesor es el compañero más viejo (último elemento de la lista ordenada)
 #     profesor = compañeros[-1][0]
+    
 #     return asistente,profesor
 
+# # Llamar a la función obtener_compañeros y asignar los valores devueltos a las variables asistente y profesor
 # asistente,profesor = obtener_compañeros(5)
+
+# # Imprimir los nombres del asistente y el profesor
 # print(f"El asistente es {asistente} y el profesor {profesor}")
 
 
-## creo una funcion que me devuelva los numeros primos entre 0 y el argumento que pasamos
+
+# # creo una funcion que me devuelva los numeros primos entre 0 y el argumento que pasamos
 # def es_primo(num):
 #     for i in range(2,num-1):
 #         if num%i==0: return False
