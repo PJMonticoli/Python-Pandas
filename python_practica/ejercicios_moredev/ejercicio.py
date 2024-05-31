@@ -46,10 +46,6 @@ class TestSum(unittest.TestCase):
             sum(None, 7)
 
 
-"""
-Extra
-"""
-
 
 class TestData(unittest.TestCase):
 
