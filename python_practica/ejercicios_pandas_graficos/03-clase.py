@@ -14,6 +14,8 @@ tablas_futbol = pd.read_html(
 
 # Imprimir el DataFrame
 print(tablas_futbol)
-# Exportar el DataFrame a CSV. El sep ; es para que separe bien las columnas
-tablas_futbol.to_csv(
+# Exportar el DataFrame a CSV. El sep ; es para que separe bien las columnas.
+# Entre [] especifico cuales columnas son las que quiero guardar
+# para solucionar el tema de tildes y caracteres especiales utilizo encoding='utf-8-sig'
+tablas_futbol[['Pos', 'Equipo', 'Pts']].to_csv(
     'pythonpractica\\python_practica\\archivos\\tabla_posiciones.csv', index=False, sep=';')
