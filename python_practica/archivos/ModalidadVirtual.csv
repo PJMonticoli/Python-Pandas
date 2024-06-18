@@ -1,0 +1,26 @@
+,time,carrera,acepta,positivo,negativo,edad,sexo,trabajo
+0,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,20,Hombre,Eventual
+1,2020-11-08,Psicología,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,26,Hombre,Eventual
+2,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,"Falta de recursos de calidad(plataformas, docentes).",20,Mujer,Sí
+3,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,18,Mujer,No
+4,2020-11-08,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,39,Hombre,Sí
+5,2020-11-08,Ciencias de la Educación,Si,Acceso desde cualquier lugar.,Conexión a internet.,25,Mujer,Sí
+6,2020-11-08,Ingeniería de Sistemas,Si,Acceso desde cualquier lugar.,"Falta de recursos de calidad(plataformas, docentes).",18,Hombre,Eventual
+7,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,20,Hombre,Sí
+8,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,20,Hombre,Sí
+9,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,25,Hombre,Sí
+10,2020-11-08,Psicología,Si,Horario flexible.,Conexión a internet.,32,Hombre,Eventual
+11,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,21,Hombre,Eventual
+12,2020-11-08,Ciencias Físicas y Energías Alternativas,Si,Horario flexible.,Conexión a internet.,25,Hombre,Sí
+14,2020-11-08,Contaduría Pública,Si,Horario flexible.,Conexión a internet.,22,Mujer,Sí
+16,2020-11-08,Ingeniería de Sistemas,Si,Horario flexible.,Conexión a internet.,19,Mujer,Sí
+17,2020-11-08,Ciencias de la Educación,No,Acceso desde cualquier lugar.,Conexión a internet.,19,Mujer,No
+18,2020-11-08,Administración de Empresas,Si,Horario flexible.,Conexión a internet.,24,Hombre,Eventual
+19,2020-11-08,Derecho,Si,Acceso desde cualquier lugar.,Conexión a internet.,28,Mujer,Eventual
+20,2020-11-09,Derecho,Si,Acceso desde cualquier lugar.,Conexión a internet.,32,Mujer,Sí
+21,2020-11-09,Historia,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,20,Hombre,Eventual
+22,2020-11-09,Trabajo Social,Si,Horario flexible.,Contacto Personal Docente-Estudiantil.,30,Mujer,Sí
+23,2020-11-09,Artes Plásticas,Si,Horario flexible.,Conexión a internet.,20,Hombre,Eventual
+24,2020-11-09,Lingüística e Idiomas,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,35,Hombre,Sí
+25,2020-11-09,Derecho,Si,Acceso desde cualquier lugar.,Contacto Personal Docente-Estudiantil.,34,Mujer,Sí
+
